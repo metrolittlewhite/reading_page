@@ -185,8 +185,9 @@
   },
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
+  "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 31,
+    "daysLeftInCurrentChallenge": 30,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [

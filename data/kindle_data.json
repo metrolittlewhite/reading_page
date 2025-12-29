@@ -2,29 +2,40 @@
   "days_read": [
     "2025-08-07",
     "2025-08-18",
-    "2025-09-08"
+    "2025-09-08",
+    "2025-12-28"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2025-12-28T08:00:00.000Z",
+    "start": "2025-12-28T00:00:00.000Z",
+    "end": "2025-12-28T00:00:00.000Z",
+    "ttl": 1766973933
   },
   "longest_daily_streak": {
     "duration": 1,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-09-08T07:00:00.000Z",
-    "start": "2025-09-08T00:00:00.000Z",
-    "end": "2025-09-08T00:00:00.000Z"
+    "utcEndTime": "2025-12-28T08:00:00.000Z",
+    "start": "2025-12-28T00:00:00.000Z",
+    "end": "2025-12-28T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2025-12-28T08:00:00.000Z",
+    "start": "2025-12-28T00:00:00.000Z",
+    "end": "2025-12-28T00:00:00.000Z",
+    "ttl": 1766973933
   },
   "longest_weekly_streak": {
     "duration": 1,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-09-08T07:00:00.000Z",
-    "start": "2025-09-08T00:00:00.000Z",
-    "end": "2025-09-08T00:00:00.000Z"
+    "utcEndTime": "2025-12-28T08:00:00.000Z",
+    "start": "2025-12-28T00:00:00.000Z",
+    "end": "2025-12-28T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "inactive",
+  "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
     "goals": {},
     "titles_read": [
@@ -195,16 +206,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 4,
+    "daysLeftInCurrentChallenge": 3,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 4,
+    "totalEarnedAchievements": 5,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Trendsetter_b4eaf405-2b34-4f34-b8b0-bee54a0ac60b.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_HeadStart_09b4f501-d681-35c1-a3b9-5daf29329383.png",
         "quantity": 1,
-        "title": "Trendsetter",
+        "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",

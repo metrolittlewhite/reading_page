@@ -1,5 +1,86 @@
 {
   "days_read": [
     "2025-12-28"
-  ]
+  ],
+  "current_daily_streak": {
+    "duration": 0
+  },
+  "longest_daily_streak": {
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2025-12-28T08:00:00.000Z",
+    "start": "2025-12-28T00:00:00.000Z",
+    "end": "2025-12-28T00:00:00.000Z"
+  },
+  "current_weekly_streak": {
+    "duration": 0
+  },
+  "longest_weekly_streak": {
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2025-12-28T08:00:00.000Z",
+    "start": "2025-12-28T00:00:00.000Z",
+    "end": "2025-12-28T00:00:00.000Z"
+  },
+  "current_weekly_streak_state": "inactive",
+  "goal_info": {
+    "goals": {},
+    "titles_read": [
+      {
+        "asin": "8E6544F118D7477D9F5C6EECC24D3504",
+        "read_event_id": "34f34bb0-687f-4e6c-acc3-d136ac87e2d3",
+        "date_read": "2025-12-28T06:48:52-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "ZZAQOTIRYHVELJKAJIHZNQEO7MOLR3MJ",
+        "read_event_id": "5c4e899f-bf77-4afd-9e5d-b75d0d1f9894",
+        "date_read": "2025-08-18T09:09:54-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      }
+    ],
+    "is_backfill_completed": true
+  },
+  "preferences": null,
+  "urcGatingWeblabTreatment": "T1",
+  "kindleHomeStreaksCardRevampTreatment": "T1",
+  "achievements_data": {
+    "daysLeftInCurrentChallenge": 28,
+    "totalAvailableAchievements": 15,
+    "totalEarnedAchievements": 0,
+    "achievementsDisplayAttributes": [
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_GoldReader_d3173512-7315-3369-8a11-06f88d6fa347.png",
+        "quantity": 0,
+        "title": "Gold Reader",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_SilverReader_2bd7c450-c9b7-3de1-848a-546ecacea042.png",
+        "quantity": 0,
+        "title": "Silver Reader",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bookish_924d3337-4102-38dc-a68f-59fe9a7b90a3.png",
+        "quantity": 0,
+        "title": "Bookish",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bibliophile_754718fd-17d2-36d8-a297-d41208e9325a.png",
+        "quantity": 0,
+        "title": "Bibliophile",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      }
+    ]
+  }
 }
